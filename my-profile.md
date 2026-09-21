@@ -18,8 +18,7 @@
 
 ### 圖片
 
-![圖片](<img width="661" height="399" alt="image" src="https://github.com/user-attachments/assets/987ccaf7-66be-4c22-b5b7-dffbee649a71" />
-)
+![圖片](phpOuPrby.jpg)
 
 > 努力做好每一件事。
 
